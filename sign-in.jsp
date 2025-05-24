@@ -20,6 +20,7 @@
 	String email="pqr";
 	session.setAttribute("email",email); 
 %>
+
 	<!-- main -->
 	<div class="main-w3layouts wrapper">
 		<h1>SignIn Hare</h1>
@@ -36,7 +37,7 @@
 		</div>
 		<!-- copyright -->
 		<div class="colorlibcopy-agile">
-			<p>© Copyright 2018  |  All Rights Reserved by Educare</a> </p>
+			<p>Â© Copyright 2018  |  All Rights Reserved by Educare</a> </p>
 		</div>
 		<ul class="colorlib-bubbles">
 			<li></li>
