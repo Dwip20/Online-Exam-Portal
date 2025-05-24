@@ -24,7 +24,7 @@ pageEncoding="ISO-8859-1"%>
 					 <script>
 		           		alert("Login Succesfull");
 		           		
-		           		window.location.replace('home.jsp');
+		           		window.location.replace('index.jsp');
 		             </script>
 		             	 <a href="logout.jsp">Log Out</a><br><br>
 					 <%
